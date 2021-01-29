@@ -1,3 +1,5 @@
+### SoftwareDeveloper extends SoftwareEngineer{}
+
 I have over 9 years experience in Software development field. I am working currently as Senior Software Development Engineer at Amadeus, Designing and implementing new features for Loyalty project in Billing, Accounting, Data Exportation and Batch Processing areas on top of Spring Framework, Spring Boot, Kafka and REST APIs.
 
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fmhddurrah.mhddurrah%2Freadme)
@@ -11,11 +13,8 @@ I have over 9 years experience in Software development field. I am working curre
 
 ## 💼 Job
 
-I'm working as a Senior Software Engineer in [Katanox](https://github.com/Katanox)
+Technical Advisory Software Engineer at [Amadeus IT Group](https://corporate.amadeus.com)
 
-## 🔭 I'm currently working on
-
-The Direct Booking API For The Hospitality Industry
 
 ## 🧠 Know / Using
 
