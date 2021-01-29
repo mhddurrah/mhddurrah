@@ -1,4 +1,4 @@
-### SoftwareDeveloper extends SoftwareEngineer{}
+### Software Engineer
 
 I have over 9 years experience in Software development field. I am working currently as Senior Software Development Engineer at Amadeus, Designing and implementing new features for Loyalty project in Billing, Accounting, Data Exportation and Batch Processing areas on top of Spring Framework, Spring Boot, Kafka and REST APIs.
 
