@@ -26,8 +26,8 @@ The Direct Booking API For The Hospitality Industry
 
 You can find and get in touch with me on below accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/ahmadshabib-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mhddurrah/)
+[![Linkedin Badge](https://img.shields.io/badge/mhddurrah-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mhddurrah/)
 
-[![Twitter Badge](https://img.shields.io/badge/ahmadshabib-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/mhddurrah)
+[![Twitter Badge](https://img.shields.io/badge/mhddurrah-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/mhddurrah)
 
 
