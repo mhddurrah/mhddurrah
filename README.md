@@ -27,6 +27,6 @@ You can find and get in touch with me on below accounts!
 
 [![Linkedin Badge](https://img.shields.io/badge/mhddurrah-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mhddurrah/)
 
-[![Twitter Badge](https://img.shields.io/badge/mhddurrah-follow%20on%20twitter-blue?style=for-the-badge&logo=devto)](https://dev.to/mhddurrah)
+[![DevTo Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/mhddurrah)
 
 
