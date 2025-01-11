@@ -13,7 +13,7 @@ I have over 9 years experience in Software development field. I am working curre
 
 ## 💼 Job
 
-Technical Advisory Software Engineer at [Amadeus IT Group](https://corporate.amadeus.com)
+Principal Software Engineer at [Amadeus IT Group](https://corporate.amadeus.com)
 
 
 ## 🧠 Know / Using
